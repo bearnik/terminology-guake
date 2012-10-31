@@ -14,7 +14,7 @@ TODO :
 
 To compile and install for now just do:
 
-**Dependencies: a lot -.- **
+**Dependencies: a lot -.-**
 
 <pre>
 $./autoget.sh --prefix=/home/someuser/testdir
