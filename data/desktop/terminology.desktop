@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Terminology-project
+Generic=Terminal
+Comment=Terminal emulator
+Comment[it]=Emulatore di terminale
+Comment[pt]=Emulador de terminal
+Exec=terminologyDev
+Icon=terminology.png
+Categories=Utility;TerminalEmulator;
+StartupWMClass=terminology
