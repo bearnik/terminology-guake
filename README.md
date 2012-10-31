@@ -12,4 +12,20 @@ TODO :
 	- Expand : press F12 twice for maximize and then hide the console
  - Make above work
 
+To compile and install for now just do:
+
+**Dependencies: a lot -.- **
+
+<pre>
+$./autoget.sh --prefix=/home/someuser/testdir
+
+$ make
+$ make install 
+
+</pre>
+
+To uninstal just make 
+<pre>
+$ make uninstall
+</pre>
 
